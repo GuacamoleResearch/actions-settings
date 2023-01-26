@@ -34,7 +34,7 @@
     "probot-settings": "git+https://github.com/elstudio/probot-settings.git#run-from-actions"
   },
   "devDependencies": {
-    "@vercel/ncc": "^0.27.0",
+    "@vercel/ncc": "^0.36.1",
     "eslint": "^7.19.0",
     "jest": "^26.6.3"
   },
